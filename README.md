@@ -39,3 +39,9 @@ The workflow is broken down into four main scripts:
     python plot.py
     ```
     This will display the graphs and save them as a high-resolution PNG image.
+
+
+## Futher Details
+
+* `hf_analysis.pdf` Contains discussion and analysis of the generated output.
+* `hf_implementation.pdf` Contains theory details and implementation of the code. 
