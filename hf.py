@@ -10,6 +10,7 @@ Basis sets: STO-2G to STO-6G
 import math
 import csv
 import logging
+import os
 import numpy as np
 from datetime import datetime
 
@@ -398,9 +399,13 @@ def get_inputs():
 
 
 def main():
+    # Create directories if they don't exist
+    os.makedirs("logs", exist_ok=True)
+    os.makedirs("data", exist_ok=True)
+    
     if ENABLE_LOGGING:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        log_file  = f"log_{timestamp}.log"
+        log_file  = f"logs\\log_{timestamp}.log"
         logging.basicConfig(
             filename=log_file,
             level=logging.INFO,
@@ -447,7 +452,7 @@ def main():
             rows.append({col_r: round(d, 6), col_E: ""})
 
     # Write the two-column CSV
-    with open(out_file, "w", newline="") as f:
+    with open(f"outputs\\{out_file}", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=[col_r, col_E])
         writer.writeheader()
         writer.writerows(rows)
