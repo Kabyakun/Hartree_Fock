@@ -6,10 +6,10 @@ The folder contains files to compute, analyse, and visualize bond dissociation c
 
 The workflow is broken down into four main scripts:
 
-* **`hf.py`**: The core computational engine. It performs RHF calculations by computing one- and two-electron integrals and running the Self-Consistent Field (SCF) loop. It evaluates the total energy for H₂ or HeH⁺ over a range of bond lengths using STO-nG basis sets (where n=2 to 6).
-* **`run_hf_scans.ps1`**: A PowerShell batch script that automates `hf.py`. It loops through the defined molecules and basis sets, piping simulated inputs into the Python script to generate a complete set of CSV data files (e.g., `H2_STO-3G.csv`).
+* **`hf.py`**: Performs RHF calculations by computing one and two electron integrals and running a SCF loop. It evaluates the total energy for H2 or HeH+ over a range of bond lengths using STO-nG basis sets (where n=2 to 6).
+* **`run_hf_scans.ps1`**: A PowerShell script to automates `hf.py`. It loops through the defined molecules and basis sets, giving inputs into the Python script to generate a complete set of CSV data files (e.g., `H2_STO-3G.csv`).
 * **`Analysis.py`**: A data extraction script that parses the generated CSVs. It calculates key molecular properties including Equilibrium Bond Length ($r_e$), Minimum Energy ($E_{min}$), Dissociation Energy Limit ($E_{dissociation}$), and Binding Energy ($D_e$). Results are saved to `extracted_properties.csv`.
-* **`plot.py`**: A visualization script. It reads the CSV files and uses `matplotlib` to generate side-by-side plots of the dissociation curves, comparing the accuracy of the different basis sets. The output is saved as `dissociation_curves.png`.
+* **`plot.py`**: It reads the CSV files and uses `matplotlib` to generate side-by-side plots of the dissociation curves. The output is saved as `dissociation_curves.png`.
 
 ## Libraries used
 
@@ -38,7 +38,7 @@ The workflow is broken down into four main scripts:
     ```bash
     python plot.py
     ```
-    This will display the graphs and save them as a high-resolution PNG image.
+    This will display the graphs and save them as a PNG image.
 
 
 ## Futher Details
