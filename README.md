@@ -11,9 +11,8 @@ The workflow is broken down into four main scripts:
 * **`Analysis.py`**: A data extraction script that parses the generated CSVs. It calculates key molecular properties including Equilibrium Bond Length ($r_e$), Minimum Energy ($E_{min}$), Dissociation Energy Limit ($E_{dissociation}$), and Binding Energy ($D_e$). Results are saved to `extracted_properties.csv`.
 * **`plot.py`**: A visualization script. It reads the CSV files and uses `matplotlib` to generate side-by-side plots of the dissociation curves, comparing the accuracy of the different basis sets. The output is saved as `dissociation_curves.png`.
 
-## Requirements
+## Libraries used
 
-* Python 3.x
 * `numpy` (for matrix operations and integral evaluation in `hf.py`)
 * `pandas` (for data manipulation in `Analysis.py` and `plot.py`)
 * `matplotlib` (for plotting in `plot.py`)
