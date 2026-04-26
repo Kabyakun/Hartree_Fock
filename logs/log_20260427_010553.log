@@ -1,0 +1,1232 @@
+01:06:21  INFO  Run started — molecule=H2, basis=STO-5G, r=[0.6, 0.8] Ang, step=0.0001 Ang
+01:06:21  INFO    d = 0.600000 Ang
+01:06:21  INFO      iter   1   E_elec =    -2.6931631297   dE = 2.693e+00
+01:06:21  INFO      iter   2   E_elec =    -1.9917598684   dE = 7.014e-01
+01:06:21  INFO      iter   3   E_elec =    -1.9917598684   dE = 0.000e+00
+01:06:21  INFO      SCF converged.
+01:06:21  INFO      E_total = -1.1097977867 Ha
+01:06:21  INFO    d = 0.600100 Ang
+01:06:21  INFO      iter   1   E_elec =    -2.6930295047   dE = 2.693e+00
+01:06:21  INFO      iter   2   E_elec =    -1.9916450895   dE = 7.014e-01
+01:06:21  INFO      iter   3   E_elec =    -1.9916450895   dE = 0.000e+00
+01:06:21  INFO      SCF converged.
+01:06:21  INFO      E_total = -1.1098299770 Ha
+01:06:21  INFO    d = 0.600200 Ang
+01:06:21  INFO      iter   1   E_elec =    -2.6928958880   dE = 2.693e+00
+01:06:21  INFO      iter   2   E_elec =    -1.9915303196   dE = 7.014e-01
+01:06:21  INFO      iter   3   E_elec =    -1.9915303196   dE = 0.000e+00
+01:06:21  INFO      SCF converged.
+01:06:21  INFO      E_total = -1.1098621273 Ha
+01:06:21  INFO    d = 0.600300 Ang
+01:06:21  INFO      iter   1   E_elec =    -2.6927622798   dE = 2.693e+00
+01:06:21  INFO      iter   2   E_elec =    -1.9914155587   dE = 7.013e-01
+01:06:21  INFO      iter   3   E_elec =    -1.9914155587   dE = 0.000e+00
+01:06:21  INFO      SCF converged.
+01:06:21  INFO      E_total = -1.1098942377 Ha
+01:06:21  INFO    d = 0.600400 Ang
+01:06:21  INFO      iter   1   E_elec =    -2.6926286800   dE = 2.693e+00
+01:06:21  INFO      iter   2   E_elec =    -1.9913008067   dE = 7.013e-01
+01:06:21  INFO      iter   3   E_elec =    -1.9913008067   dE = 0.000e+00
+01:06:21  INFO      SCF converged.
+01:06:21  INFO      E_total = -1.1099263081 Ha
+01:06:21  INFO    d = 0.600500 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6924950886   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9911860638   dE = 7.013e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9911860638   dE = 2.220e-16
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1099583386 Ha
+01:06:22  INFO    d = 0.600600 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6923615057   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9910713299   dE = 7.013e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9910713299   dE = 0.000e+00
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1099903292 Ha
+01:06:22  INFO    d = 0.600700 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6922279312   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9909566050   dE = 7.013e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9909566050   dE = 2.220e-16
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1100222800 Ha
+01:06:22  INFO    d = 0.600800 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6920943650   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9908418890   dE = 7.013e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9908418890   dE = 0.000e+00
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1100541910 Ha
+01:06:22  INFO    d = 0.600900 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6919608074   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9907271821   dE = 7.012e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9907271821   dE = 6.661e-16
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1100860621 Ha
+01:06:22  INFO    d = 0.601000 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6918272581   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9906124841   dE = 7.012e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9906124841   dE = 8.882e-16
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1101178935 Ha
+01:06:22  INFO    d = 0.601100 Ang
+01:06:22  INFO      iter   1   E_elec =    -2.6916937173   dE = 2.692e+00
+01:06:22  INFO      iter   2   E_elec =    -1.9904977952   dE = 7.012e-01
+01:06:22  INFO      iter   3   E_elec =    -1.9904977952   dE = 4.441e-16
+01:06:22  INFO      SCF converged.
+01:06:22  INFO      E_total = -1.1101496851 Ha
+01:06:22  INFO    d = 0.601200 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6915601849   dE = 2.692e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9903831152   dE = 7.012e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9903831152   dE = 6.661e-16
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1101814369 Ha
+01:06:23  INFO    d = 0.601300 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6914266610   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9902684443   dE = 7.012e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9902684443   dE = 4.441e-16
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1102131491 Ha
+01:06:23  INFO    d = 0.601400 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6912931454   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9901537823   dE = 7.011e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9901537823   dE = 8.882e-16
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1102448216 Ha
+01:06:23  INFO    d = 0.601500 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6911596383   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9900391294   dE = 7.011e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9900391294   dE = 0.000e+00
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1102764544 Ha
+01:06:23  INFO    d = 0.601600 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6910261397   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9899244854   dE = 7.011e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9899244854   dE = 0.000e+00
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1103080476 Ha
+01:06:23  INFO    d = 0.601700 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6908926494   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9898098504   dE = 7.011e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9898098504   dE = 0.000e+00
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1103396011 Ha
+01:06:23  INFO    d = 0.601800 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6907591676   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9896952245   dE = 7.011e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9896952245   dE = 2.220e-16
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1103711151 Ha
+01:06:23  INFO    d = 0.601900 Ang
+01:06:23  INFO      iter   1   E_elec =    -2.6906256943   dE = 2.691e+00
+01:06:23  INFO      iter   2   E_elec =    -1.9895806075   dE = 7.010e-01
+01:06:23  INFO      iter   3   E_elec =    -1.9895806075   dE = 0.000e+00
+01:06:23  INFO      SCF converged.
+01:06:23  INFO      E_total = -1.1104025896 Ha
+01:06:23  INFO    d = 0.602000 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6904922294   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9894659995   dE = 7.010e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9894659995   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1104340245 Ha
+01:06:24  INFO    d = 0.602100 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6903587729   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9893514006   dE = 7.010e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9893514006   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1104654198 Ha
+01:06:24  INFO    d = 0.602200 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6902253248   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9892368106   dE = 7.010e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9892368106   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1104967757 Ha
+01:06:24  INFO    d = 0.602300 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6900918852   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9891222296   dE = 7.010e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9891222296   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1105280922 Ha
+01:06:24  INFO    d = 0.602400 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6899584541   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9890076577   dE = 7.010e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9890076577   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1105593692 Ha
+01:06:24  INFO    d = 0.602500 Ang
+01:06:24  INFO      iter   1   E_elec =    -2.6898250313   dE = 2.690e+00
+01:06:24  INFO      iter   2   E_elec =    -1.9888930947   dE = 7.009e-01
+01:06:24  INFO      iter   3   E_elec =    -1.9888930947   dE = 0.000e+00
+01:06:24  INFO      SCF converged.
+01:06:24  INFO      E_total = -1.1105906068 Ha
+01:06:24  INFO    d = 0.602600 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6896916171   dE = 2.690e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9887785408   dE = 7.009e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9887785408   dE = 0.000e+00
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1106218050 Ha
+01:06:25  INFO    d = 0.602700 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6895582112   dE = 2.690e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9886639958   dE = 7.009e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9886639958   dE = 4.441e-16
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1106529638 Ha
+01:06:25  INFO    d = 0.602800 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6894248138   dE = 2.689e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9885494598   dE = 7.009e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9885494598   dE = 0.000e+00
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1106840833 Ha
+01:06:25  INFO    d = 0.602900 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6892914249   dE = 2.689e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9884349329   dE = 7.009e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9884349329   dE = 0.000e+00
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1107151635 Ha
+01:06:25  INFO    d = 0.603000 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6891580444   dE = 2.689e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9883204150   dE = 7.008e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9883204150   dE = 0.000e+00
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1107462044 Ha
+01:06:25  INFO    d = 0.603100 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6890246724   dE = 2.689e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9882059060   dE = 7.008e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9882059060   dE = 2.220e-16
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1107772060 Ha
+01:06:25  INFO    d = 0.603200 Ang
+01:06:25  INFO      iter   1   E_elec =    -2.6888913088   dE = 2.689e+00
+01:06:25  INFO      iter   2   E_elec =    -1.9880914061   dE = 7.008e-01
+01:06:25  INFO      iter   3   E_elec =    -1.9880914061   dE = 0.000e+00
+01:06:25  INFO      SCF converged.
+01:06:25  INFO      E_total = -1.1108081684 Ha
+01:06:25  INFO    d = 0.603300 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6887579536   dE = 2.689e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9879769152   dE = 7.008e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9879769152   dE = 4.441e-16
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1108390915 Ha
+01:06:26  INFO    d = 0.603400 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6886246069   dE = 2.689e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9878624332   dE = 7.008e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9878624332   dE = 4.441e-16
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1108699755 Ha
+01:06:26  INFO    d = 0.603500 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6884912687   dE = 2.688e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9877479603   dE = 7.007e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9877479603   dE = 4.441e-16
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1109008203 Ha
+01:06:26  INFO    d = 0.603600 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6883579389   dE = 2.688e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9876334964   dE = 7.007e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9876334964   dE = 0.000e+00
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1109316260 Ha
+01:06:26  INFO    d = 0.603700 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6882246176   dE = 2.688e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9875190415   dE = 7.007e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9875190415   dE = 0.000e+00
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1109623925 Ha
+01:06:26  INFO    d = 0.603800 Ang
+01:06:26  INFO      iter   1   E_elec =    -2.6880913047   dE = 2.688e+00
+01:06:26  INFO      iter   2   E_elec =    -1.9874045956   dE = 7.007e-01
+01:06:26  INFO      iter   3   E_elec =    -1.9874045956   dE = 0.000e+00
+01:06:26  INFO      SCF converged.
+01:06:26  INFO      E_total = -1.1109931200 Ha
+01:06:26  INFO    d = 0.603900 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6879580002   dE = 2.688e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9872901587   dE = 7.007e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9872901587   dE = 2.220e-16
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1110238083 Ha
+01:06:27  INFO    d = 0.604000 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6878247043   dE = 2.688e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9871757308   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9871757308   dE = 0.000e+00
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1110544577 Ha
+01:06:27  INFO    d = 0.604100 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6876914168   dE = 2.688e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9870613120   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9870613120   dE = 4.441e-16
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1110850680 Ha
+01:06:27  INFO    d = 0.604200 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6875581377   dE = 2.688e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9869469021   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9869469021   dE = 1.110e-15
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1111156393 Ha
+01:06:27  INFO    d = 0.604300 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6874248671   dE = 2.687e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9868325012   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9868325012   dE = 0.000e+00
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1111461716 Ha
+01:06:27  INFO    d = 0.604400 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6872916050   dE = 2.687e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9867181094   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9867181094   dE = 0.000e+00
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1111766650 Ha
+01:06:27  INFO    d = 0.604500 Ang
+01:06:27  INFO      iter   1   E_elec =    -2.6871583513   dE = 2.687e+00
+01:06:27  INFO      iter   2   E_elec =    -1.9866037266   dE = 7.006e-01
+01:06:27  INFO      iter   3   E_elec =    -1.9866037266   dE = 0.000e+00
+01:06:27  INFO      SCF converged.
+01:06:27  INFO      E_total = -1.1112071195 Ha
+01:06:27  INFO    d = 0.604600 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6870251061   dE = 2.687e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9864893527   dE = 7.005e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9864893527   dE = 4.441e-16
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1112375350 Ha
+01:06:28  INFO    d = 0.604700 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6868918694   dE = 2.687e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9863749879   dE = 7.005e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9863749879   dE = 6.661e-16
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1112679117 Ha
+01:06:28  INFO    d = 0.604800 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6867586411   dE = 2.687e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9862606321   dE = 7.005e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9862606321   dE = 0.000e+00
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1112982495 Ha
+01:06:28  INFO    d = 0.604900 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6866254213   dE = 2.687e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9861462853   dE = 7.005e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9861462853   dE = 4.441e-16
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1113285485 Ha
+01:06:28  INFO    d = 0.605000 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6864922099   dE = 2.686e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9860319476   dE = 7.005e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9860319476   dE = 2.220e-16
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1113588087 Ha
+01:06:28  INFO    d = 0.605100 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6863590070   dE = 2.686e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9859176188   dE = 7.004e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9859176188   dE = 1.332e-15
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1113890301 Ha
+01:06:28  INFO    d = 0.605200 Ang
+01:06:28  INFO      iter   1   E_elec =    -2.6862258126   dE = 2.686e+00
+01:06:28  INFO      iter   2   E_elec =    -1.9858032990   dE = 7.004e-01
+01:06:28  INFO      iter   3   E_elec =    -1.9858032990   dE = 4.441e-16
+01:06:28  INFO      SCF converged.
+01:06:28  INFO      E_total = -1.1114192128 Ha
+01:06:28  INFO    d = 0.605300 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6860926267   dE = 2.686e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9856889883   dE = 7.004e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9856889883   dE = 0.000e+00
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1114493567 Ha
+01:06:29  INFO    d = 0.605400 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6859594492   dE = 2.686e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9855746866   dE = 7.004e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9855746866   dE = 4.441e-16
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1114794619 Ha
+01:06:29  INFO    d = 0.605500 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6858262802   dE = 2.686e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9854603939   dE = 7.004e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9854603939   dE = 0.000e+00
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1115095285 Ha
+01:06:29  INFO    d = 0.605600 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6856931197   dE = 2.686e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9853461102   dE = 7.003e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9853461102   dE = 0.000e+00
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1115395564 Ha
+01:06:29  INFO    d = 0.605700 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6855599676   dE = 2.686e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9852318355   dE = 7.003e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9852318355   dE = 1.332e-15
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1115695456 Ha
+01:06:29  INFO    d = 0.605800 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6854268241   dE = 2.685e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9851175698   dE = 7.003e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9851175698   dE = 0.000e+00
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1115994962 Ha
+01:06:29  INFO    d = 0.605900 Ang
+01:06:29  INFO      iter   1   E_elec =    -2.6852936890   dE = 2.685e+00
+01:06:29  INFO      iter   2   E_elec =    -1.9850033132   dE = 7.003e-01
+01:06:29  INFO      iter   3   E_elec =    -1.9850033132   dE = 4.441e-16
+01:06:29  INFO      SCF converged.
+01:06:29  INFO      E_total = -1.1116294082 Ha
+01:06:29  INFO    d = 0.606000 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6851605623   dE = 2.685e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9848890655   dE = 7.003e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9848890655   dE = 8.882e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1116592817 Ha
+01:06:30  INFO    d = 0.606100 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6850274442   dE = 2.685e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9847748269   dE = 7.003e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9847748269   dE = 8.882e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1116891166 Ha
+01:06:30  INFO    d = 0.606200 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6848943345   dE = 2.685e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9846605973   dE = 7.002e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9846605973   dE = 4.441e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1117189131 Ha
+01:06:30  INFO    d = 0.606300 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6847612333   dE = 2.685e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9845463767   dE = 7.002e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9845463767   dE = 4.441e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1117486710 Ha
+01:06:30  INFO    d = 0.606400 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6846281406   dE = 2.685e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9844321651   dE = 7.002e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9844321651   dE = 6.661e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1117783904 Ha
+01:06:30  INFO    d = 0.606500 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6844950564   dE = 2.684e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9843179626   dE = 7.002e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9843179626   dE = 0.000e+00
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1118080714 Ha
+01:06:30  INFO    d = 0.606600 Ang
+01:06:30  INFO      iter   1   E_elec =    -2.6843619806   dE = 2.684e+00
+01:06:30  INFO      iter   2   E_elec =    -1.9842037691   dE = 7.002e-01
+01:06:30  INFO      iter   3   E_elec =    -1.9842037691   dE = 2.220e-16
+01:06:30  INFO      SCF converged.
+01:06:30  INFO      E_total = -1.1118377140 Ha
+01:06:30  INFO    d = 0.606700 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6842289133   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9840895845   dE = 7.001e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9840895845   dE = 8.882e-16
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1118673182 Ha
+01:06:31  INFO    d = 0.606800 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6840958545   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9839754090   dE = 7.001e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9839754090   dE = 0.000e+00
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1118968840 Ha
+01:06:31  INFO    d = 0.606900 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6839628042   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9838612426   dE = 7.001e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9838612426   dE = 0.000e+00
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1119264115 Ha
+01:06:31  INFO    d = 0.607000 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6838297624   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9837470851   dE = 7.001e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9837470851   dE = 6.661e-16
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1119559006 Ha
+01:06:31  INFO    d = 0.607100 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6836967291   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9836329367   dE = 7.001e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9836329367   dE = 2.220e-16
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1119853514 Ha
+01:06:31  INFO    d = 0.607200 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6835637043   dE = 2.684e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9835187973   dE = 7.000e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9835187973   dE = 2.220e-16
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1120147640 Ha
+01:06:31  INFO    d = 0.607300 Ang
+01:06:31  INFO      iter   1   E_elec =    -2.6834306879   dE = 2.683e+00
+01:06:31  INFO      iter   2   E_elec =    -1.9834046669   dE = 7.000e-01
+01:06:31  INFO      iter   3   E_elec =    -1.9834046669   dE = 0.000e+00
+01:06:31  INFO      SCF converged.
+01:06:31  INFO      E_total = -1.1120441383 Ha
+01:06:31  INFO    d = 0.607400 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6832976800   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9832905455   dE = 7.000e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9832905455   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1120734744 Ha
+01:06:32  INFO    d = 0.607500 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6831646807   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9831764331   dE = 7.000e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9831764331   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1121027722 Ha
+01:06:32  INFO    d = 0.607600 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6830316898   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9830623298   dE = 7.000e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9830623298   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1121320319 Ha
+01:06:32  INFO    d = 0.607700 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6828987074   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9829482355   dE = 7.000e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9829482355   dE = 2.220e-16
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1121612534 Ha
+01:06:32  INFO    d = 0.607800 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6827657335   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9828341502   dE = 6.999e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9828341502   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1121904368 Ha
+01:06:32  INFO    d = 0.607900 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6826327681   dE = 2.683e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9827200739   dE = 6.999e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9827200739   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1122195821 Ha
+01:06:32  INFO    d = 0.608000 Ang
+01:06:32  INFO      iter   1   E_elec =    -2.6824998112   dE = 2.682e+00
+01:06:32  INFO      iter   2   E_elec =    -1.9826060067   dE = 6.999e-01
+01:06:32  INFO      iter   3   E_elec =    -1.9826060067   dE = 0.000e+00
+01:06:32  INFO      SCF converged.
+01:06:32  INFO      E_total = -1.1122486892 Ha
+01:06:32  INFO    d = 0.608100 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6823668628   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9824919485   dE = 6.999e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9824919485   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1122777584 Ha
+01:06:33  INFO    d = 0.608200 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6822339228   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9823778993   dE = 6.999e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9823778993   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1123067894 Ha
+01:06:33  INFO    d = 0.608300 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6821009914   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9822638591   dE = 6.998e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9822638591   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1123357825 Ha
+01:06:33  INFO    d = 0.608400 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6819680685   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9821498279   dE = 6.998e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9821498279   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1123647375 Ha
+01:06:33  INFO    d = 0.608500 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6818351541   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9820358058   dE = 6.998e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9820358058   dE = 1.110e-15
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1123936546 Ha
+01:06:33  INFO    d = 0.608600 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6817022481   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9819217927   dE = 6.998e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9819217927   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1124225338 Ha
+01:06:33  INFO    d = 0.608700 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6815693507   dE = 2.682e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9818077886   dE = 6.998e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9818077886   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1124513750 Ha
+01:06:33  INFO    d = 0.608800 Ang
+01:06:33  INFO      iter   1   E_elec =    -2.6814364618   dE = 2.681e+00
+01:06:33  INFO      iter   2   E_elec =    -1.9816937936   dE = 6.997e-01
+01:06:33  INFO      iter   3   E_elec =    -1.9816937936   dE = 0.000e+00
+01:06:33  INFO      SCF converged.
+01:06:33  INFO      E_total = -1.1124801783 Ha
+01:06:33  INFO    d = 0.608900 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6813035814   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9815798076   dE = 6.997e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9815798076   dE = 4.441e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1125089437 Ha
+01:06:34  INFO    d = 0.609000 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6811707095   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9814658306   dE = 6.997e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9814658306   dE = 0.000e+00
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1125376713 Ha
+01:06:34  INFO    d = 0.609100 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6810378461   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9813518626   dE = 6.997e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9813518626   dE = 6.661e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1125663611 Ha
+01:06:34  INFO    d = 0.609200 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6809049912   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9812379037   dE = 6.997e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9812379037   dE = 2.220e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1125950130 Ha
+01:06:34  INFO    d = 0.609300 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6807721448   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9811239538   dE = 6.996e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9811239538   dE = 2.220e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1126236272 Ha
+01:06:34  INFO    d = 0.609400 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6806393069   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9810100129   dE = 6.996e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9810100129   dE = 4.441e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1126522036 Ha
+01:06:34  INFO    d = 0.609500 Ang
+01:06:34  INFO      iter   1   E_elec =    -2.6805064775   dE = 2.681e+00
+01:06:34  INFO      iter   2   E_elec =    -1.9808960810   dE = 6.996e-01
+01:06:34  INFO      iter   3   E_elec =    -1.9808960810   dE = 2.220e-16
+01:06:34  INFO      SCF converged.
+01:06:34  INFO      E_total = -1.1126807422 Ha
+01:06:34  INFO    d = 0.609600 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6803736566   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9807821582   dE = 6.996e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9807821582   dE = 0.000e+00
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1127092432 Ha
+01:06:35  INFO    d = 0.609700 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6802408443   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9806682444   dE = 6.996e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9806682444   dE = 4.441e-16
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1127377064 Ha
+01:06:35  INFO    d = 0.609800 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6801080404   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9805543396   dE = 6.996e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9805543396   dE = 2.220e-16
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1127661320 Ha
+01:06:35  INFO    d = 0.609900 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6799752451   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9804404439   dE = 6.995e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9804404439   dE = 4.441e-16
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1127945200 Ha
+01:06:35  INFO    d = 0.610000 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6798424583   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9803265572   dE = 6.995e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9803265572   dE = 0.000e+00
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1128228703 Ha
+01:06:35  INFO    d = 0.610100 Ang
+01:06:35  INFO      iter   1   E_elec =    -2.6797096800   dE = 2.680e+00
+01:06:35  INFO      iter   2   E_elec =    -1.9802126795   dE = 6.995e-01
+01:06:35  INFO      iter   3   E_elec =    -1.9802126795   dE = 0.000e+00
+01:06:35  INFO      SCF converged.
+01:06:35  INFO      E_total = -1.1128511830 Ha
+01:06:35  INFO    d = 0.610200 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6795769102   dE = 2.680e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9800988108   dE = 6.995e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9800988108   dE = 0.000e+00
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1128794582 Ha
+01:06:36  INFO    d = 0.610300 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6794441489   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9799849512   dE = 6.995e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9799849512   dE = 2.220e-16
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1129076958 Ha
+01:06:36  INFO    d = 0.610400 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6793113961   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9798711006   dE = 6.994e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9798711006   dE = 0.000e+00
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1129358958 Ha
+01:06:36  INFO    d = 0.610500 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6791786519   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9797572591   dE = 6.994e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9797572591   dE = 0.000e+00
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1129640584 Ha
+01:06:36  INFO    d = 0.610600 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6790459162   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9796434265   dE = 6.994e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9796434265   dE = 6.661e-16
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1129921835 Ha
+01:06:36  INFO    d = 0.610700 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6789131890   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9795296030   dE = 6.994e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9795296030   dE = 0.000e+00
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1130202711 Ha
+01:06:36  INFO    d = 0.610800 Ang
+01:06:36  INFO      iter   1   E_elec =    -2.6787804703   dE = 2.679e+00
+01:06:36  INFO      iter   2   E_elec =    -1.9794157886   dE = 6.994e-01
+01:06:36  INFO      iter   3   E_elec =    -1.9794157886   dE = 0.000e+00
+01:06:36  INFO      SCF converged.
+01:06:36  INFO      E_total = -1.1130483213 Ha
+01:06:36  INFO    d = 0.610900 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6786477601   dE = 2.679e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9793019832   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9793019832   dE = 2.220e-16
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1130763341 Ha
+01:06:37  INFO    d = 0.611000 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6785150585   dE = 2.679e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9791881868   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9791881868   dE = 4.441e-16
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1131043095 Ha
+01:06:37  INFO    d = 0.611100 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6783823653   dE = 2.678e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9790743994   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9790743994   dE = 0.000e+00
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1131322476 Ha
+01:06:37  INFO    d = 0.611200 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6782496808   dE = 2.678e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9789606211   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9789606211   dE = 0.000e+00
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1131601482 Ha
+01:06:37  INFO    d = 0.611300 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6781170047   dE = 2.678e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9788468518   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9788468518   dE = 2.220e-16
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1131880116 Ha
+01:06:37  INFO    d = 0.611400 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6779843371   dE = 2.678e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9787330915   dE = 6.993e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9787330915   dE = 0.000e+00
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1132158377 Ha
+01:06:37  INFO    d = 0.611500 Ang
+01:06:37  INFO      iter   1   E_elec =    -2.6778516781   dE = 2.678e+00
+01:06:37  INFO      iter   2   E_elec =    -1.9786193403   dE = 6.992e-01
+01:06:37  INFO      iter   3   E_elec =    -1.9786193403   dE = 0.000e+00
+01:06:37  INFO      SCF converged.
+01:06:37  INFO      E_total = -1.1132436265 Ha
+01:06:37  INFO    d = 0.611600 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6777190276   dE = 2.678e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9785055981   dE = 6.992e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9785055981   dE = 0.000e+00
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1132713780 Ha
+01:06:38  INFO    d = 0.611700 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6775863857   dE = 2.678e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9783918650   dE = 6.992e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9783918650   dE = 0.000e+00
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1132990924 Ha
+01:06:38  INFO    d = 0.611800 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6774537522   dE = 2.677e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9782781408   dE = 6.992e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9782781408   dE = 4.441e-16
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1133267695 Ha
+01:06:38  INFO    d = 0.611900 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6773211273   dE = 2.677e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9781644258   dE = 6.992e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9781644258   dE = 4.441e-16
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1133544094 Ha
+01:06:38  INFO    d = 0.612000 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6771885109   dE = 2.677e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9780507197   dE = 6.991e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9780507197   dE = 6.661e-16
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1133820122 Ha
+01:06:38  INFO    d = 0.612100 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6770559031   dE = 2.677e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9779370227   dE = 6.991e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9779370227   dE = 0.000e+00
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1134095778 Ha
+01:06:38  INFO    d = 0.612200 Ang
+01:06:38  INFO      iter   1   E_elec =    -2.6769233038   dE = 2.677e+00
+01:06:38  INFO      iter   2   E_elec =    -1.9778233347   dE = 6.991e-01
+01:06:38  INFO      iter   3   E_elec =    -1.9778233347   dE = 4.441e-16
+01:06:38  INFO      SCF converged.
+01:06:38  INFO      E_total = -1.1134371064 Ha
+01:06:38  INFO    d = 0.612300 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6767907130   dE = 2.677e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9777096558   dE = 6.991e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9777096558   dE = 2.220e-16
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1134645978 Ha
+01:06:39  INFO    d = 0.612400 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6766581308   dE = 2.677e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9775959859   dE = 6.991e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9775959859   dE = 6.661e-16
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1134920522 Ha
+01:06:39  INFO    d = 0.612500 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6765255571   dE = 2.677e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9774823250   dE = 6.990e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9774823250   dE = 0.000e+00
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1135194695 Ha
+01:06:39  INFO    d = 0.612600 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6763929919   dE = 2.676e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9773686732   dE = 6.990e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9773686732   dE = 0.000e+00
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1135468498 Ha
+01:06:39  INFO    d = 0.612700 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6762604353   dE = 2.676e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9772550304   dE = 6.990e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9772550304   dE = 0.000e+00
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1135741932 Ha
+01:06:39  INFO    d = 0.612800 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6761278872   dE = 2.676e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9771413967   dE = 6.990e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9771413967   dE = 2.220e-16
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1136014995 Ha
+01:06:39  INFO    d = 0.612900 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6759953476   dE = 2.676e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9770277720   dE = 6.990e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9770277720   dE = 2.220e-16
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1136287689 Ha
+01:06:39  INFO    d = 0.613000 Ang
+01:06:39  INFO      iter   1   E_elec =    -2.6758628166   dE = 2.676e+00
+01:06:39  INFO      iter   2   E_elec =    -1.9769141563   dE = 6.989e-01
+01:06:39  INFO      iter   3   E_elec =    -1.9769141563   dE = 0.000e+00
+01:06:39  INFO      SCF converged.
+01:06:39  INFO      E_total = -1.1136560013 Ha
+01:06:39  INFO    d = 0.613100 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6757302941   dE = 2.676e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9768005497   dE = 6.989e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9768005497   dE = 0.000e+00
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1136831969 Ha
+01:06:40  INFO    d = 0.613200 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6755977802   dE = 2.676e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9766869521   dE = 6.989e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9766869521   dE = 6.661e-16
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1137103556 Ha
+01:06:40  INFO    d = 0.613300 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6754652748   dE = 2.675e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9765733635   dE = 6.989e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9765733635   dE = 6.661e-16
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1137374774 Ha
+01:06:40  INFO    d = 0.613400 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6753327779   dE = 2.675e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9764597840   dE = 6.989e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9764597840   dE = 4.441e-16
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1137645623 Ha
+01:06:40  INFO    d = 0.613500 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6752002896   dE = 2.675e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9763462136   dE = 6.989e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9763462136   dE = 4.441e-16
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1137916105 Ha
+01:06:40  INFO    d = 0.613600 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6750678098   dE = 2.675e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9762326521   dE = 6.988e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9762326521   dE = 4.441e-16
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1138186218 Ha
+01:06:40  INFO    d = 0.613700 Ang
+01:06:40  INFO      iter   1   E_elec =    -2.6749353386   dE = 2.675e+00
+01:06:40  INFO      iter   2   E_elec =    -1.9761190998   dE = 6.988e-01
+01:06:40  INFO      iter   3   E_elec =    -1.9761190998   dE = 0.000e+00
+01:06:40  INFO      SCF converged.
+01:06:40  INFO      E_total = -1.1138455964 Ha
+01:06:40  INFO    d = 0.613800 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6748028759   dE = 2.675e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9760055564   dE = 6.988e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9760055564   dE = 4.441e-16
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1138725343 Ha
+01:06:41  INFO    d = 0.613900 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6746704218   dE = 2.675e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9758920221   dE = 6.988e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9758920221   dE = 8.882e-16
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1138994354 Ha
+01:06:41  INFO    d = 0.614000 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6745379762   dE = 2.675e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9757784969   dE = 6.988e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9757784969   dE = 0.000e+00
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1139262998 Ha
+01:06:41  INFO    d = 0.614100 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6744055392   dE = 2.674e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9756649807   dE = 6.987e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9756649807   dE = 0.000e+00
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1139531275 Ha
+01:06:41  INFO    d = 0.614200 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6742731107   dE = 2.674e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9755514735   dE = 6.987e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9755514735   dE = 4.441e-16
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1139799186 Ha
+01:06:41  INFO    d = 0.614300 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6741406908   dE = 2.674e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9754379754   dE = 6.987e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9754379754   dE = 2.220e-16
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1140066731 Ha
+01:06:41  INFO    d = 0.614400 Ang
+01:06:41  INFO      iter   1   E_elec =    -2.6740082794   dE = 2.674e+00
+01:06:41  INFO      iter   2   E_elec =    -1.9753244863   dE = 6.987e-01
+01:06:41  INFO      iter   3   E_elec =    -1.9753244863   dE = 2.220e-16
+01:06:41  INFO      SCF converged.
+01:06:41  INFO      E_total = -1.1140333909 Ha
+01:06:41  INFO    d = 0.614500 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6738758766   dE = 2.674e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9752110062   dE = 6.987e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9752110062   dE = 0.000e+00
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1140600721 Ha
+01:06:42  INFO    d = 0.614600 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6737434823   dE = 2.674e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9750975352   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9750975352   dE = 0.000e+00
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1140867168 Ha
+01:06:42  INFO    d = 0.614700 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6736110966   dE = 2.674e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9749840733   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9749840733   dE = 4.441e-16
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1141133250 Ha
+01:06:42  INFO    d = 0.614800 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6734787195   dE = 2.673e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9748706204   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9748706204   dE = 0.000e+00
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1141398966 Ha
+01:06:42  INFO    d = 0.614900 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6733463509   dE = 2.673e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9747571765   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9747571765   dE = 2.220e-16
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1141664317 Ha
+01:06:42  INFO    d = 0.615000 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6732139908   dE = 2.673e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9746437417   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9746437417   dE = 2.220e-16
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1141929303 Ha
+01:06:42  INFO    d = 0.615100 Ang
+01:06:42  INFO      iter   1   E_elec =    -2.6730816393   dE = 2.673e+00
+01:06:42  INFO      iter   2   E_elec =    -1.9745303159   dE = 6.986e-01
+01:06:42  INFO      iter   3   E_elec =    -1.9745303159   dE = 2.220e-16
+01:06:42  INFO      SCF converged.
+01:06:42  INFO      E_total = -1.1142193925 Ha
+01:06:42  INFO    d = 0.615200 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6729492964   dE = 2.673e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9744168992   dE = 6.985e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9744168992   dE = 0.000e+00
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1142458182 Ha
+01:06:43  INFO    d = 0.615300 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6728169620   dE = 2.673e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9743034915   dE = 6.985e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9743034915   dE = 8.882e-16
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1142722076 Ha
+01:06:43  INFO    d = 0.615400 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6726846362   dE = 2.673e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9741900929   dE = 6.985e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9741900929   dE = 4.441e-16
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1142985605 Ha
+01:06:43  INFO    d = 0.615500 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6725523189   dE = 2.673e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9740767033   dE = 6.985e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9740767033   dE = 0.000e+00
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1143248771 Ha
+01:06:43  INFO    d = 0.615600 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6724200102   dE = 2.672e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9739633227   dE = 6.985e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9739633227   dE = 2.220e-16
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1143511574 Ha
+01:06:43  INFO    d = 0.615700 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6722877101   dE = 2.672e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9738499512   dE = 6.984e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9738499512   dE = 0.000e+00
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1143774013 Ha
+01:06:43  INFO    d = 0.615800 Ang
+01:06:43  INFO      iter   1   E_elec =    -2.6721554185   dE = 2.672e+00
+01:06:43  INFO      iter   2   E_elec =    -1.9737365888   dE = 6.984e-01
+01:06:43  INFO      iter   3   E_elec =    -1.9737365888   dE = 0.000e+00
+01:06:43  INFO      SCF converged.
+01:06:43  INFO      E_total = -1.1144036089 Ha
+01:06:43  INFO    d = 0.615900 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6720231355   dE = 2.672e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9736232354   dE = 6.984e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9736232354   dE = 0.000e+00
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1144297803 Ha
+01:06:44  INFO    d = 0.616000 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6718908611   dE = 2.672e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9735098910   dE = 6.984e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9735098910   dE = 1.332e-15
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1144559154 Ha
+01:06:44  INFO    d = 0.616100 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6717585952   dE = 2.672e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9733965557   dE = 6.984e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9733965557   dE = 0.000e+00
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1144820143 Ha
+01:06:44  INFO    d = 0.616200 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6716263379   dE = 2.672e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9732832295   dE = 6.983e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9732832295   dE = 2.220e-16
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1145080769 Ha
+01:06:44  INFO    d = 0.616300 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6714940892   dE = 2.671e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9731699123   dE = 6.983e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9731699123   dE = 2.220e-16
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1145341034 Ha
+01:06:44  INFO    d = 0.616400 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6713618490   dE = 2.671e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9730566041   dE = 6.983e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9730566041   dE = 0.000e+00
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1145600937 Ha
+01:06:44  INFO    d = 0.616500 Ang
+01:06:44  INFO      iter   1   E_elec =    -2.6712296174   dE = 2.671e+00
+01:06:44  INFO      iter   2   E_elec =    -1.9729433050   dE = 6.983e-01
+01:06:44  INFO      iter   3   E_elec =    -1.9729433050   dE = 0.000e+00
+01:06:44  INFO      SCF converged.
+01:06:44  INFO      E_total = -1.1145860479 Ha
+01:06:44  INFO    d = 0.616600 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6710973944   dE = 2.671e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9728300149   dE = 6.983e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9728300149   dE = 4.441e-16
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1146119660 Ha
+01:06:45  INFO    d = 0.616700 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6709651799   dE = 2.671e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9727167339   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9727167339   dE = 0.000e+00
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1146378479 Ha
+01:06:45  INFO    d = 0.616800 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6708329740   dE = 2.671e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9726034620   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9726034620   dE = 4.441e-16
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1146636938 Ha
+01:06:45  INFO    d = 0.616900 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6707007767   dE = 2.671e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9724901991   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9724901991   dE = 0.000e+00
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1146895037 Ha
+01:06:45  INFO    d = 0.617000 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6705685880   dE = 2.671e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9723769452   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9723769452   dE = 4.441e-16
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1147152775 Ha
+01:06:45  INFO    d = 0.617100 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6704364078   dE = 2.670e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9722637004   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9722637004   dE = 0.000e+00
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1147410153 Ha
+01:06:45  INFO    d = 0.617200 Ang
+01:06:45  INFO      iter   1   E_elec =    -2.6703042362   dE = 2.670e+00
+01:06:45  INFO      iter   2   E_elec =    -1.9721504646   dE = 6.982e-01
+01:06:45  INFO      iter   3   E_elec =    -1.9721504646   dE = 8.882e-16
+01:06:45  INFO      SCF converged.
+01:06:45  INFO      E_total = -1.1147667171 Ha
+01:06:45  INFO    d = 0.617300 Ang
+01:06:46  INFO      iter   1   E_elec =    -2.6701720732   dE = 2.670e+00
+01:06:46  INFO      iter   2   E_elec =    -1.9720372379   dE = 6.981e-01
+01:06:46  INFO      iter   3   E_elec =    -1.9720372379   dE = 0.000e+00
+01:06:46  INFO      SCF converged.
+01:06:46  INFO      E_total = -1.1147923829 Ha
+01:06:46  INFO    d = 0.617400 Ang
+01:06:46  INFO      iter   1   E_elec =    -2.6700399187   dE = 2.670e+00
+01:06:46  INFO      iter   2   E_elec =    -1.9719240203   dE = 6.981e-01
+01:06:46  INFO      iter   3   E_elec =    -1.9719240203   dE = 4.441e-16
+01:06:46  INFO      SCF converged.
+01:06:46  INFO      E_total = -1.1148180128 Ha
+01:06:46  INFO    d = 0.617500 Ang
+01:06:46  INFO      iter   1   E_elec =    -2.6699077729   dE = 2.670e+00
+01:06:46  INFO      iter   2   E_elec =    -1.9718108117   dE = 6.981e-01
+01:06:46  INFO      iter   3   E_elec =    -1.9718108117   dE = 1.110e-15
+01:06:46  INFO      SCF converged.
+01:06:46  INFO      E_total = -1.1148436068 Ha
+01:06:46  INFO    d = 0.617600 Ang
+01:06:46  INFO      iter   1   E_elec =    -2.6697756356   dE = 2.670e+00
+01:06:46  INFO      iter   2   E_elec =    -1.9716976121   dE = 6.981e-01
+01:06:46  INFO      iter   3   E_elec =    -1.9716976121   dE = 4.441e-16
+01:06:46  INFO      SCF converged.
+01:06:46  INFO      E_total = -1.1148691649 Ha
+01:06:46  INFO    d = 0.617700 Ang
+01:06:46  INFO      iter   1   E_elec =    -2.6696435069   dE = 2.670e+00
+01:06:46  INFO      iter   2   E_elec =    -1.9715844216   dE = 6.981e-01
+01:06:46  INFO      iter   3   E_elec =    -1.9715844216   dE = 6.661e-16
+01:06:46  INFO      SCF converged.
+01:06:46  INFO      E_total = -1.1148946871 Ha
+01:06:46  INFO    d = 0.617800 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6695113867   dE = 2.670e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9714712402   dE = 6.980e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9714712402   dE = 2.220e-16
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1149201735 Ha
+01:06:47  INFO    d = 0.617900 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6693792752   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9713580678   dE = 6.980e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9713580678   dE = 0.000e+00
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1149456240 Ha
+01:06:47  INFO    d = 0.618000 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6692471722   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9712449044   dE = 6.980e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9712449044   dE = 6.661e-16
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1149710388 Ha
+01:06:47  INFO    d = 0.618100 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6691150778   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9711317502   dE = 6.980e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9711317502   dE = 2.220e-16
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1149964177 Ha
+01:06:47  INFO    d = 0.618200 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6689829920   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9710186049   dE = 6.980e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9710186049   dE = 6.661e-16
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1150217609 Ha
+01:06:47  INFO    d = 0.618300 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6688509148   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9709054687   dE = 6.979e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9709054687   dE = 0.000e+00
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1150470683 Ha
+01:06:47  INFO    d = 0.618400 Ang
+01:06:47  INFO      iter   1   E_elec =    -2.6687188462   dE = 2.669e+00
+01:06:47  INFO      iter   2   E_elec =    -1.9707923416   dE = 6.979e-01
+01:06:47  INFO      iter   3   E_elec =    -1.9707923416   dE = 0.000e+00
+01:06:47  INFO      SCF converged.
+01:06:47  INFO      E_total = -1.1150723400 Ha
+01:06:47  INFO    d = 0.618500 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6685867861   dE = 2.669e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9706792235   dE = 6.979e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9706792235   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1150975760 Ha
+01:06:48  INFO    d = 0.618600 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6684547346   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9705661145   dE = 6.979e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9705661145   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1151227763 Ha
+01:06:48  INFO    d = 0.618700 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6683226918   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9704530146   dE = 6.979e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9704530146   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1151479410 Ha
+01:06:48  INFO    d = 0.618800 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6681906575   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9703399237   dE = 6.979e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9703399237   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1151730701 Ha
+01:06:48  INFO    d = 0.618900 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6680586318   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9702268418   dE = 6.978e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9702268418   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1151981635 Ha
+01:06:48  INFO    d = 0.619000 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6679266147   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9701137690   dE = 6.978e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9701137690   dE = 0.000e+00
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1152232214 Ha
+01:06:48  INFO    d = 0.619100 Ang
+01:06:48  INFO      iter   1   E_elec =    -2.6677946061   dE = 2.668e+00
+01:06:48  INFO      iter   2   E_elec =    -1.9700007053   dE = 6.978e-01
+01:06:48  INFO      iter   3   E_elec =    -1.9700007053   dE = 2.220e-16
+01:06:48  INFO      SCF converged.
+01:06:48  INFO      E_total = -1.1152482436 Ha
+01:06:48  INFO    d = 0.619200 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6676626062   dE = 2.668e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9698876506   dE = 6.978e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9698876506   dE = 2.220e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1152732304 Ha
+01:06:49  INFO    d = 0.619300 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6675306149   dE = 2.668e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9697746049   dE = 6.978e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9697746049   dE = 2.220e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1152981816 Ha
+01:06:49  INFO    d = 0.619400 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6673986321   dE = 2.667e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9696615684   dE = 6.977e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9696615684   dE = 4.441e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1153230973 Ha
+01:06:49  INFO    d = 0.619500 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6672666580   dE = 2.667e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9695485409   dE = 6.977e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9695485409   dE = 2.220e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1153479775 Ha
+01:06:49  INFO    d = 0.619600 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6671346924   dE = 2.667e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9694355224   dE = 6.977e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9694355224   dE = 0.000e+00
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1153728223 Ha
+01:06:49  INFO    d = 0.619700 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6670027354   dE = 2.667e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9693225130   dE = 6.977e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9693225130   dE = 2.220e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1153976316 Ha
+01:06:49  INFO    d = 0.619800 Ang
+01:06:49  INFO      iter   1   E_elec =    -2.6668707871   dE = 2.667e+00
+01:06:49  INFO      iter   2   E_elec =    -1.9692095127   dE = 6.977e-01
+01:06:49  INFO      iter   3   E_elec =    -1.9692095127   dE = 2.220e-16
+01:06:49  INFO      SCF converged.
+01:06:49  INFO      E_total = -1.1154224055 Ha
+01:06:49  INFO    d = 0.619900 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6667388473   dE = 2.667e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9690965214   dE = 6.976e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9690965214   dE = 4.441e-16
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1154471441 Ha
+01:06:50  INFO    d = 0.620000 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6666069161   dE = 2.667e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9689835391   dE = 6.976e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9689835391   dE = 0.000e+00
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1154718472 Ha
+01:06:50  INFO    d = 0.620100 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6664749936   dE = 2.666e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9688705660   dE = 6.976e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9688705660   dE = 0.000e+00
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1154965150 Ha
+01:06:50  INFO    d = 0.620200 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6663430796   dE = 2.666e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9687576019   dE = 6.976e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9687576019   dE = 2.220e-16
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1155211475 Ha
+01:06:50  INFO    d = 0.620300 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6662111742   dE = 2.666e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9686446468   dE = 6.976e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9686446468   dE = 0.000e+00
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1155457447 Ha
+01:06:50  INFO    d = 0.620400 Ang
+01:06:50  INFO      iter   1   E_elec =    -2.6660792774   dE = 2.666e+00
+01:06:50  INFO      iter   2   E_elec =    -1.9685317008   dE = 6.975e-01
+01:06:50  INFO      iter   3   E_elec =    -1.9685317008   dE = 1.110e-15
+01:06:50  INFO      SCF converged.
+01:06:50  INFO      E_total = -1.1155703066 Ha
+01:06:50  INFO    d = 0.620500 Ang
