@@ -2,7 +2,7 @@
 
 # Define our molecules
 $molecules = @(
-    #@{ Key="a"; Name="H2" },
+    @{ Key="a"; Name="H2" },
     @{ Key="b"; Name="HeH+" }
 )
 
@@ -15,7 +15,7 @@ foreach ($mol in $molecules) {
         # Create a output file the run
         $outFile = "$($mol.Name)_STO-$($n)G.csv"
         Write-Host " Running $($mol.Name) with STO-$($n)G basis set..." -ForegroundColor Cyan
-        
+
         # Create an array of inputs
         $Inputs = @(
             $mol.Key,      # Select Molecule (a or b)
