@@ -2,8 +2,8 @@ import pandas as pd
 import glob
 import os
 
-# Get all uploaded CSV files
-files = glob.glob("*_STO-*G.csv")
+# Get all CSV files inside outputs directory
+files = glob.glob(os.path.join("outputs", "*_STO-*G.csv"))
 
 results = []
 
