@@ -11,7 +11,7 @@ fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 
 for ax, mol in zip(axes, molecules):
     for n in basis_sets:
-        filename = f"{mol}_STO-{n}G.csv"
+        filename = f"outputs\\{mol}_STO-{n}G.csv"
         
         # Check if file exists before trying to plot
         if os.path.exists(filename):
